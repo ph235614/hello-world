@@ -1,3 +1,7 @@
 # hello-world
 just study and study
-asasfa
+#include<stdio.h>
+int main()
+{
+  printf("Hello World!\n");
+}
